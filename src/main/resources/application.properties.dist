@@ -1,0 +1,13 @@
+#spring.datasource.driver-class-name=org.sqlite.JDBC
+spring.jpa.show-sql=true
+
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.username=username
+spring.datasource.password=password
+spring.datasource.url=jdbc:mysql://localhost:3306/bot?serverTimezone=UTC
+spring.datasource.dbcp2.driver= com.mysql.cj.jdbc.Driver
+
+discord-token=discord-token
+telegram-token=telegram-token
+
+#game-players-siez=4
