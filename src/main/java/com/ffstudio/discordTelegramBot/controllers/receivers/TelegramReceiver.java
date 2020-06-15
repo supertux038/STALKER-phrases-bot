@@ -10,6 +10,9 @@ import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 
 @Component
 public class TelegramReceiver extends TelegramLongPollingBot {
+    
+    @Value("${telegram-token}")
+    private String token;
 
     private final TelegramResolver telegramResolver;
 
@@ -33,6 +36,6 @@ public class TelegramReceiver extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "token";
+        return token;
     }
 }
