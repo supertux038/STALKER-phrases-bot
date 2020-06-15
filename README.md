@@ -1,9 +1,8 @@
 # STALKER-phrases-bot
 Бот, который позволяет угадывать персонажей и группировки из игры сталкер по их фразам
-<p align="center">
-Команда start\
-  <img scr="https://sun9-36.userapi.com/c856120/v856120423/231459/7u7PdKg89DM.jpg">
-  <img scr="https://sun9-34.userapi.com/c856120/v856120423/231472/gPJP6SNKXgw.jpg">
+Команда start
+![alt text](https://sun9-36.userapi.com/c856120/v856120423/231459/7u7PdKg89DM.jpg)
+![alt text](https://sun9-34.userapi.com/c856120/v856120423/231472/gPJP6SNKXgw.jpg)
 Команда help\
 ![alt text](https://sun9-57.userapi.com/c856120/v856120423/231462/DjsM9vZWRlg.jpg)
 ![alt text](https://sun9-13.userapi.com/c856120/v856120423/23147a/xWslnKiy6K8.jpg)
@@ -31,4 +30,3 @@
 Команда best\
 ![alt text](https://sun9-26.userapi.com/c856120/v856120379/23715f/VLh8xmgTlkg.jpg)
 ![alt text](https://sun9-50.userapi.com/c856120/v856120379/237158/hzWb-0Px3Jk.jpg)
-</p>
